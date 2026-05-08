@@ -1,0 +1,6 @@
+broj1 = float(input('please enter ineger: '))
+broj2 = float(input('please enter ineger: '))
+print(f'sum is:', broj1+broj2)
+print(f'difference is:', broj1-broj2)
+print(f'multiplied is:', broj1*broj2)
+print(f'divided is:', broj1/broj2)
